@@ -8,4 +8,4 @@ object gcp_scala_code {
       df.show()
       df.select("Nmae", "Age").show()
     }
-}
+} 
